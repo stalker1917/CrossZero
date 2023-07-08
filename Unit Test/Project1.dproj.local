@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.748,=C:\Users\Andrey\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.604,C:\Users\Andrey\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\Мои программы\Delphi\Проект крестики нолики\Preproject1\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.518,=D:\Мои программы\Delphi\Проект крестики нолики\CrossZeroAlpha4\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.164,=D:\Мои программы\Delphi\Проект крестики нолики\UnitTestBeta3\Debug.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.598,D:\Мои программы\Delphi\Проект крестики нолики\CrossZeroAlpha4\Fields.pas=D:\Мои программы\Delphi\Проект крестики нолики\CrossZeroAlpha4\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.604,C:\Users\Andrey\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\Мои программы\Delphi\Проект крестики нолики\Preproject1\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.084,C:\Users\Andrey\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\Мои программы\Delphi\Проект крестики нолики\Preproject1\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
